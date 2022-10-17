@@ -1,9 +1,19 @@
 {
-  "name": "Test-theme-dark",
+  "name": "test-theme-dark",
   "displayName": "Test theme",
   "description": "A theme",
   "version": "0.0.1",
   "publisher": "ZeroXiph",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZeroXiphYT/test-theme-vscode"
+  },
+  "keywords": [
+    "theme",
+    "test",
+    "first theme",
+    "gray"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
