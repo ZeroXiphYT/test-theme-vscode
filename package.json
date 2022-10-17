@@ -1,0 +1,22 @@
+{
+  "name": "Test-theme-dark",
+  "displayName": "Test theme",
+  "description": "A theme",
+  "version": "0.0.1",
+  "publisher": "ZeroXiph",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Test theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Test theme-color-theme.json"
+      }
+    ]
+  }
+}
